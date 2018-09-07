@@ -62,6 +62,7 @@ public class GPA_Calculator {
    public static void main(String[] args) {
    
       System.out.println("Welcome to myGPA Calculator");
+      System.out.println("My Calculator");
       System.out.println();
       System.out.println("Credits: Harsh Jivani. Version: 1.0");
       System.out.println();
